@@ -1,0 +1,7 @@
+*Instalamos git desede la terminal y clonamos el repositoria de la mochila para luego crear un archivo y modificarlo.
+
+*apt-get es un comando que usamos para instalar archivos y paquetes
+
+*su es tambien un comando que usamos para pasar de cuenta a otra en este caso a la cuenta 'root' por lo que nos va a pedir la contraseña
+
+*Una vez instalado git, los comandos eran los mismos que usamos para subir los archivos al repositorio.
